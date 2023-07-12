@@ -38,7 +38,7 @@ Average Daily Rate (ADR): The average daily rate calculated as the average reven
 
 ## Visualizations
 
-The [Power BI report](https://app.powerbi.com/groups/me/reports/87805ecd-6606-473c-a4c1-8a6a902b6815/ReportSection47fb8a4aeb95427a3b52?experience=power-bi) contains the following visualizations:
+The ['Power BI report'](https://app.powerbi.com/groups/me/reports/87805ecd-6606-473c-a4c1-8a6a902b6815/ReportSection47fb8a4aeb95427a3b52?experience=power-bi) contains the following visualizations:
 
 Cancellation by Month 
 Cancellation by Market Segment 
@@ -51,3 +51,5 @@ Bookings by Market Segment
 Bookings by Distribution Channel 
 
 ## Documentation
+['hotel booking']() A document containing the results and insights obtained from the analysis.
+
