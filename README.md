@@ -32,7 +32,7 @@ Average Daily Rate (ADR): The average daily rate calculated as the average reven
 
 ## Visualizations
 
-The ['Power BI report'](https://app.powerbi.com/groups/me/reports/87805ecd-6606-473c-a4c1-8a6a902b6815/ReportSection47fb8a4aeb95427a3b52?experience=power-bi) contains the following visualizations:
+The ['Power BI report'](https://app.powerbi.com/reportEmbed?reportId=87805ecd-6606-473c-a4c1-8a6a902b6815&autoAuth=true&ctid=9188f78e-b845-4dfc-8d21-9a3c53acf87f) contains the following visualizations:
 
 Cancellation by Month 
 
